@@ -2536,9 +2536,29 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="LUA_DEFINED_CONSTANTS">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="LUA_FIELD">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="LUA_GLOBAL_VAR">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="8c913b" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2548,7 +2568,7 @@
     </option>
     <option name="LUA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="b58900" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2558,7 +2578,7 @@
     </option>
     <option name="LUA_LOCAL_VAR">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="268bd2" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2579,7 +2599,7 @@
     <option name="LUA_LONGCOMMENT_BRACES">
       <value>
         <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" />
+        <option name="BACKGROUND" value="73642" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -2588,7 +2608,7 @@
     </option>
     <option name="LUA_LONGSTRING">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="1da097" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2598,8 +2618,8 @@
     </option>
     <option name="LUA_LONGSTRING_BRACES">
       <value>
-        <option name="FOREGROUND" value="b58900" />
-        <option name="BACKGROUND" />
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" value="73642" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -2608,7 +2628,7 @@
     </option>
     <option name="LUA_LUADOC">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="dc322f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -2618,7 +2638,7 @@
     </option>
     <option name="LUA_LUADOC_TAG">
       <value>
-        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FOREGROUND" value="859900" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="808080" />
@@ -2628,7 +2648,7 @@
     </option>
     <option name="LUA_LUADOC_VALUE">
       <value>
-        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FOREGROUND" value="1da097" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -2663,6 +2683,16 @@
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="LUA_UPVAL">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="73642" />
+        <option name="EFFECT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
