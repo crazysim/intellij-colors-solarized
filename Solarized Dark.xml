@@ -1709,7 +1709,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" />
+        <option name="BACKGROUND" value="11407e" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="0" />
@@ -4779,7 +4779,7 @@
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="eee8d5" />
-        <option name="BACKGROUND" />
+        <option name="BACKGROUND" value="11407e" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="0" />
@@ -5569,7 +5569,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" value="75e42" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="0" />
@@ -5759,7 +5759,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" />
+        <option name="BACKGROUND" value="432c38" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="0" />
@@ -5768,8 +5768,8 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" />
-        <option name="BACKGROUND" />
+        <option name="FOREGROUND" value="eee8d5" />
+        <option name="BACKGROUND" value="432c38" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="0" />
